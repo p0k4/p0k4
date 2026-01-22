@@ -11,13 +11,11 @@ I enjoy building things end-to-end — from backend logic and databases to deplo
   <img src="https://streak-stats.demolab.com?user=p0k4&theme=dark" />
 </p>
 
-
-## 🐍 Contributions
+## Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/p0k4/p0k4/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/p0k4/p0k4/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/p0k4/p0k4/output/github-contribution-grid-snake.svg">
+  <source srcset="https://raw.githubusercontent.com/p0k4/p0k4/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/p0k4/p0k4/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 ## 🛠 Tech Stack
