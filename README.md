@@ -46,19 +46,7 @@ I enjoy building things end-to-end — from backend logic and databases to deplo
 ## 📊 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=p0k4&show_icons=true&theme=dark&hide=commits" />
+  
   <img src="https://streak-stats.demolab.com?user=p0k4&theme=dark" />
 </p>
-
----
-
-## 📍 Location
-Portugal 🇵🇹
-
----
-
-## 🤝 Let’s connect
-
-If you like building **practical software**, **infrastructure**, or **products that actually run in production**, we’ll probably get along.
-
 
