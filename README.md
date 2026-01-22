@@ -13,10 +13,9 @@ I enjoy building things end-to-end — from backend logic and databases to deplo
 
 ## Contributions
 
-<picture>
-  <source srcset="https://raw.githubusercontent.com/p0k4/p0k4/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
-  <img src="https://raw.githubusercontent.com/p0k4/p0k4/output/github-contribution-grid-snake-dark.svg">
-</picture>
+## 🐍 Contributions
+
+<img src="https://raw.githubusercontent.com/p0k4/p0k4/output/github-contribution-grid-snake-dark.svg" />
 
 ## 🛠 Tech Stack
 
