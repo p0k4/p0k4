@@ -24,9 +24,6 @@ I enjoy building things end-to-end — from backend logic and databases to deplo
 - **Business & POS systems**  
   Node.js · PostgreSQL · REST APIs · Authentication · Reporting
 
-- **Infrastructure & automation**  
-  Docker · Docker Compose · VPS · NGINX · Raspberry Pi · Linux
-
 - **Web & mobile apps**  
   HTML · CSS · JavaScript · React · React Native (Expo)
 
