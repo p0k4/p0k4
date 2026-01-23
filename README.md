@@ -4,7 +4,6 @@ Full-stack developer with a strong focus on **real-world systems**, **infrastruc
 
 I enjoy building things end-to-end — from backend logic and databases to deployment, automation, and long-term maintenance.
 
-## 📊 Activity
 
 <p align="center">
   
