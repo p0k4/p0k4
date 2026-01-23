@@ -12,12 +12,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake svgs
+      - name: Generate snake svgs (dark palette)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: p0k4
           outputs: |
-            dist/github-snake.svg?palette=github-dark
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
