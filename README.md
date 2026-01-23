@@ -1,7 +1,3 @@
-esta aqui 
-
-refaz ocultado 
-
 # Hi, I'm António Martins 👋
 
 Full-stack developer with a strong focus on **real-world systems**, **infrastructure**, and **product-driven software**.
