@@ -13,7 +13,11 @@ I enjoy building things end-to-end — from backend logic and databases to deplo
 
 ## Contributions
 
-<img src="https://raw.githubusercontent.com/p0k4/p0k4/output/github-contribution-grid-snake-dark.svg" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/p0k4/p0k4/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+
 ## 🛠 Tech Stack
 
 <p align="left">
