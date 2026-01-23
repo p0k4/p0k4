@@ -6,40 +6,19 @@ I enjoy building things end-to-end — from backend logic and databases to deplo
 
 
 
-## 🛠 Skills
+### 🛠 Tech Stack
 
-### Programming Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/>
-</p>
+#### 🧠 Programming Languages
+[![Languages](https://skillicons.dev/icons?i=js,ts,python&theme=dark&size=42)](https://skillicons.dev)
 
-### Frontend Technologies
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
-</p>
+#### 🎨 Frontend
+[![Frontend](https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark&size=42)](https://skillicons.dev)
 
-### Backend Technologies
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
-</p>
+#### ⚙️ Backend & Infrastructure
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres,docker,linux,nginx&theme=dark&size=42)](https://skillicons.dev)
 
-### Databases & Infrastructure
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/>
-</p>
-
-### 🛠 Tools & Platforms
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/>
-</p>
-
+#### 🛠 Tools & Platforms
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&size=42)](https://skillicons.dev)
 ## 🚀 What I build
 
 - **Business & POS systems**  
