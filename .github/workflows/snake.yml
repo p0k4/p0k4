@@ -1,3 +1,4 @@
+
 name: Generate Snake Animation
 
 permissions:
@@ -13,27 +14,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate GitHub contribution snake (dark background)
+      - name: Generate GitHub contribution snake (dark)
         uses: Platane/snk@v3
         with:
           github_user_name: p0k4
-
           outputs: |
             dist/github-contribution-grid-snake-dark.svg
-
-          # Background color (GitHub dark)
-          background_color: "#0d1117"
-
-          # Snake color
-          color_snake: "#a855f7"
-
-          # Contribution dots (GitHub dark palette)
-          color_dots: |
-            #161b22
-            #0e4429
-            #006d32
-            #26a641
-            #39d353
+          args: |
+            --background-color #0d1117
+            --snake-color #a855f7
+            --dot-color-0 #161b22
+            --dot-color-1 #0e4429
+            --dot-color-2 #006d32
+            --dot-color-3 #26a641
+            --dot-color-4 #39d353
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
