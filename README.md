@@ -5,9 +5,8 @@ Full-stack developer with a strong focus on **real-world systems**, **infrastruc
 I enjoy building things end-to-end — from backend logic and databases to deployment, automation, and long-term maintenance.
 
 
-I’ve been passionate about technology for as long as I can remember. 
-It’s as if the data flowing through networks is the blood running through my veins.
-
+***I’ve been passionate about technology for as long as I can remember.***  
+***It’s as if the data flowing through networks is the blood running through my veins.***
 
 
 ### 🛠 Tech Stack
