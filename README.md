@@ -18,7 +18,7 @@ I enjoy building things end-to-end — from backend logic and databases to deplo
 [![Frontend](https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark&size=42)](https://skillicons.dev)
 
 #### ⚙️ Backend & Infrastructure
-[![Backend](https://skillicons.dev/icons?i=raspberrypi,aws,nodejs,express,postgres,docker,linux,nginx&theme=dark&size=42)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=raspberrypi,aws,nodejs,express,postgres,,npm,docker,linux,nginx&theme=dark&size=42)](https://skillicons.dev)
 
 #### 🛠 Tools & Platforms
 [![Tools](https://skillicons.dev/icons?i=git,github,githubactions,vscode&theme=dark&size=42)](https://skillicons.dev)
