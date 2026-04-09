@@ -2,7 +2,7 @@
 
 Full-stack developer with a strong focus on **real-world systems**, **infrastructure**, and **product-driven software**.
 
-I enjoy building things end-to-end — from backend logic and databases to deployment, automation, and long-term maintenance.
+I enjoy building things end-to-end from backend logic and databases to deployment, automation, and long-term maintenance.
 
 
 ***I’ve been passionate about technology for as long as I can remember.***  
