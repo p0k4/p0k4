@@ -4,8 +4,8 @@ I'm António, a full-stack developer focused on building real-world systems, inf
 
 I enjoy working across the full stack from backend logic and databases to deployment, automation, and long-term maintenance.
 
-**Technology has been part of me for as long as I can remember.**  
-**It feels like data flowing through networks is the blood running through my veins.**
+***Technology has been part of me for as long as I can remember.***  
+***It feels like data flowing through networks is the blood running through my veins.***
 
 
 ### 🛠 Tech Stack
