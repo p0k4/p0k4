@@ -1,12 +1,11 @@
-# Hi there,👋
+Hi there, 👋
 
-Full-stack developer with a strong focus on **real-world systems**, **infrastructure**, and **product-driven software**.
+I'm António, a full-stack developer focused on building real-world systems, infrastructure, and product-driven software.
 
-I enjoy building things end-to-end from backend logic and databases to deployment, automation, and long-term maintenance.
+I enjoy working across the full stack — from backend logic and databases to deployment, automation, and long-term maintenance.
 
-
-***I’ve been passionate about technology for as long as I can remember.***  
-***It’s as if the data flowing through networks is the blood running through my veins.***
+Technology has been part of me for as long as I can remember.  
+It feels like data flowing through networks is the blood running through my veins.
 
 
 ### 🛠 Tech Stack
