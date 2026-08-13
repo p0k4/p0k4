@@ -7,9 +7,6 @@ I enjoy working across the full stack from backend logic and databases to deploy
 ***Technology has been part of me for as long as I can remember.***  
 ***It feels like data flowing through networks is the blood running through my veins.***
 
-
-### 🛠 Tech Stack
-
 #### 🧠 Programming Languages
 [![Languages](https://skillicons.dev/icons?i=js,ts,python&theme=dark&size=42)](https://skillicons.dev)
 
