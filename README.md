@@ -27,10 +27,6 @@ I enjoy working across the full stack from backend logic and databases to deploy
   HTML · CSS · JavaScript · React · React Native (Expo)
 
 - **AI & tooling**  
-  Chatbots · API integrations · Automation scripts
-
-  
-
-
+  Chatbots · API integrations · Automation scripts.
 
 
