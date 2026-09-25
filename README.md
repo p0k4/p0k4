@@ -17,4 +17,4 @@ I enjoy working across the full stack from backend logic and databases to deploy
 [![Backend](https://skillicons.dev/icons?i=raspberrypi,aws,terraform,nodejs,docker,nginx&theme=dark&size=42)](https://skillicons.dev)
 
 #### 🛠 Tools & Platforms
-[![Tools](https://skillicons.dev/icons?i=obsidian,git,github,githubactions,vscode&theme=dark&size=42)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=obsidian,git,github,githubactions,vercel,vscode&theme=dark&size=42)](https://skillicons.dev)
